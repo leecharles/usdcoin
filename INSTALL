@@ -1,0 +1,9 @@
+Building UsdCoin
+
+See doc/readme-qt.rst for instructions on building UsdCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of UsdCoin.
+
+See doc/build-*.txt for instructions on building UsdCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of UsdCoin.
